@@ -1,0 +1,6 @@
+Set an ip address on your Host machine.($sudo ip addr add <ip> dev <channel>)
+Change the value of the ip address and port in the client and server codes.
+Run the server code by executing $python server.py
+Open another terminal and run the client code by executing $python client.py.
+U can also connect to the same network and run the client code from another host.
+
